@@ -2,8 +2,8 @@
 Synthetic Images with Dense Annotations and Ensemble Learning for DFU Segmentation
 
 DFUC2022.
-
 ICPR2024.
+DOI：https://doi.org/10.1007/978-3-031-78398-2_23
 
 1.使用FreestyleNet生成合成数据集
 https://github.com/essunny310/FreestyleNet
