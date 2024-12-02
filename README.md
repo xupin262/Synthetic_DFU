@@ -22,4 +22,6 @@ FreeMask：https://github.com/LiheYoung/FreeMask
 本文训练各个模型的代码基于mmsegmentation（https://github.com/open-mmlab/mmsegmentation）实现。
 
 
+我们的方法在DFUC2022实时排行榜中排名第二！
+![image](https://github.com/user-attachments/assets/16746617-c4d7-4d50-b418-4086c3e93398)
 
