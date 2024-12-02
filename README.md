@@ -17,6 +17,7 @@ FreeMask：https://github.com/LiheYoung/FreeMask
 可根据公式、方法实现
 
 4.集成学习
+参考tools文件夹内容。
 
 本文训练各个模型的代码基于mmsegmentation（https://github.com/open-mmlab/mmsegmentation）实现。
 
