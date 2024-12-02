@@ -14,6 +14,7 @@ FreeMask：https://github.com/LiheYoung/FreeMask
 ![image](https://github.com/user-attachments/assets/b179b1cd-efd8-46a8-805f-c2a24b36fe11)
 
 3.重采样操作
+可根据公式、方法实现
 
 4.集成学习
 
